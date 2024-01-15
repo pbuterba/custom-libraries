@@ -6,7 +6,7 @@
 @updated 1/14/2024
 
 @author  Preston Buterbaugh
-@credit
+@credit  Colored text printing from https://www.geeksforgeeks.org/print-colors-python-terminal/
 """
 # Imports
 import sys
